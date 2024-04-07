@@ -3,7 +3,7 @@ from django.contrib.auth.mixins import LoginRequiredMixin
 from django.contrib.auth.models import User
 from django.shortcuts import render, redirect, get_object_or_404
 from django.urls import reverse_lazy, reverse
-from django.views.generic import CreateView, UpdateView, DeleteView
+from django.views.generic import CreateView, UpdateView
 
 from .utils import get_annotate_comments, get_filtered_posts, get_paginate
 from .forms import AuthorChangeForm, CommentForm, PostForm
@@ -118,8 +118,3 @@ class PostUpdateView(PostMixin, UpdateView):
     def get_success_url(self):
         return reverse('blog:post_detail',
                        kwargs={'post_id': self.kwargs[self.pk_url_kwarg]})
-
-
-class PostDeleteView(PostMixin, DeleteView):
-
-    pass

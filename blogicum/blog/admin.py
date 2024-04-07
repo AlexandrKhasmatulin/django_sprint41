@@ -57,5 +57,3 @@ class CommentAdmin(admin.ModelAdmin):
     )
     search_fields = ('text',)
     list_display_links = ('text',)
-
-
