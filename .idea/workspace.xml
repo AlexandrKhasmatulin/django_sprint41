@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="969dbcdf-f203-48ac-8e5b-c2ce34bb56ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/django_sprint3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/blog/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/blog/mixins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/blog/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/blogicum/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/blogicum/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/blogicum/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/blogicum/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/blogicum/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/core/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/core/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/core/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/core/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/core/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/core/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/pages/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/pages/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/pages/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/pages/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/pages/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/pages/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/pages/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/static_dev/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/static_dev/img/fav/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/static_dev/img/fav/android-chrome-256x256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/static_dev/img/fav/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/static_dev/img/fav/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/static_dev/img/fav/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/static_dev/img/fav/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/static_dev/img/fav/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/static_dev/img/fav/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/static_dev/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/blog/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/blog/comment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/blog/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/blog/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/blog/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/blog/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/core/403csrf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/core/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/core/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/includes/category_link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/includes/comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/includes/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/includes/paginator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/includes/post_card.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/pages/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/pages/rules.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/registration/logged_out.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/registration/password_change_done.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/registration/password_change_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/registration/password_reset_complete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/registration/password_reset_confirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/registration/password_reset_done.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/registration/password_reset_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogicum/templates/registration/registration_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ejgSG48khNxVBocZg8l0ObkMt5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/haa/Dev/django_sprint3",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\haa\Dev\django_sprint3\blogicum\blogicum" />
+      <recent name="C:\Users\haa\Dev\django_sprint3\blogicum" />
+      <recent name="C:\Users\haa\Dev\django_sprint3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\haa\Dev\django_sprint3\blogicum\templates\core" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="969dbcdf-f203-48ac-8e5b-c2ce34bb56ab" name="Changes" comment="" />
+      <created>1712423398977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712423398977</updated>
+    </task>
+    <servers />
+  </component>
+</project>
